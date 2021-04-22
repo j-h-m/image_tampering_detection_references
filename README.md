@@ -43,3 +43,12 @@ A list of papers, codes and other interesting collections pertaining to image ta
 15. Raghavendra, R., et al. "Transferable Deep-CNN features for detecting digital and print-scanned morphed face images." *2017 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2017. [pdf](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w28/papers/Busch_Transferable_Deep-CNN_Features_CVPR_2017_paper.pdf)<br/>
 16. Bondi, Luca, et al. "Tampering Detection and Localization through Clustering of Camera-Based CNN Features." *IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2017. [pdf](openaccess.thecvf.com/.../Tubaro_Tampering_Detection_and_CVPR_2017_paper.pdf)<br/>
 
+
+# Other Related Links
+ - https://www.semanticscholar.org/paper/Digital-image-forensics%3A-a-booklet-for-beginners-Redi-Taktak/9b17b42b071a377380b2f206df483bc9c7a94bac?p2df
+ - https://ws.binghamton.edu/fridrich/Research/full_paper_02.pdf
+ - https://farid.berkeley.edu/downloads/tutorials/digitalimageforensics.pdf
+ - https://ws.binghamton.edu/kirchner/papers/image_forensics_and_counter_forensics.pdf
+ - https://github.com/wenbihan/coverage
+
+ - 
